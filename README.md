@@ -16,3 +16,4 @@
  - Discount sales should be driven on Sundays on tHE best performing products to drive in more sales
  - End of the year promotions should be held in the month of December to drive in more sales and to retain customers in the next business year
  - Discount sales can be introduced on best performing products to increase sales and attract new customers
+ 
